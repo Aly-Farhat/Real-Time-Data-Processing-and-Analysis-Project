@@ -1,0 +1,18 @@
+{
+  "file_name": "exampleJSON_file.txt",
+  "position": "Software Engineer",
+  "classcode": "ENG123",
+  "salary_start": 50000.0,
+  "salary_end": 70000.0,
+  "start_date": "2025-01-01",
+  "end_date": "2025-12-31",
+  "req": "Bachelor's degree in Computer Science",
+  "notes": "This is a full-time position.",
+  "duties": "Develop and maintain software applications.",
+  "selection": "Technical interview followed by HR interview.",
+  "experience_length": "3 years",
+  "job_type": "Full-time",
+  "education_length": "4 years",
+  "school_type": "University",
+  "application_location": "New York, NY"
+}
